@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yakub-8287.github.io/sai_furniture/sitemap.xml
